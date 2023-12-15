@@ -1,0 +1,15 @@
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/bin/Debug/net8.0/Dot-Net-project
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/bin/Debug/net8.0/Dot-Net-project.deps.json
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/bin/Debug/net8.0/Dot-Net-project.runtimeconfig.json
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/bin/Debug/net8.0/Dot-Net-project.dll
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/bin/Debug/net8.0/Dot-Net-project.pdb
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.AssemblyInfoInputs.cache
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.AssemblyInfo.cs
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.csproj.CoreCompileInputs.cache
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.sourcelink.json
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.dll
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/refint/Dot-Net-project.dll
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.pdb
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/Dot-Net-project.genruntimeconfig.cache
+/Users/dennie/Desktop/Microsoft/Dot-Net-project/obj/Debug/net8.0/ref/Dot-Net-project.dll
